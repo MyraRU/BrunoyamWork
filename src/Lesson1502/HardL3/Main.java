@@ -1,6 +1,4 @@
-package Lesson3.HardL3;
-
-import java.util.Arrays;
+package Lesson1502.HardL3;
 
 public class Main {
     public static void main(String[] args) {

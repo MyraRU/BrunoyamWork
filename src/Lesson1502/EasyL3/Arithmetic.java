@@ -1,4 +1,4 @@
-package Lesson3.EasyL3;
+package Lesson1502.EasyL3;
 
 public class Arithmetic {
 

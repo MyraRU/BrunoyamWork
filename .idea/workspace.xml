@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="00877e5c-e01c-4795-bd25-0fbcf7cc4d2d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/EasyL3/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/EasyL3/Arithmetic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/HardL3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/HardL3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/MyraHWOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson0802/MyraHWOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/MyraHWTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1002/MyraHWTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/EasyL3/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1502/EasyL3/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/EasyL3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1502/EasyL3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/HardL3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1502/HardL3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/NormalL3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1502/NormalL3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/NormalL3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1502/NormalL3/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -56,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.HardL3.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1502.EasyL3.Main" />
       <module name="BrunoyamWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.HardL3.*" />
+          <option name="PATTERN" value="Lesson1502.EasyL3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,11 +87,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.EasyL3.Main" />
+      <option name="MAIN_CLASS_NAME" value="Lesson1502.NormalL3.Main" />
       <module name="BrunoyamWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.EasyL3.*" />
+          <option name="PATTERN" value="Lesson1502.NormalL3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1502.HardL3.Main" />
+      <module name="BrunoyamWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1502.HardL3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

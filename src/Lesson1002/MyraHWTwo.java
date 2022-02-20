@@ -1,6 +1,4 @@
-package Lesson2;
-
-import java.util.Scanner;
+package Lesson1002;
 
 public class MyraHWTwo {
     public static void main(String[] args) {

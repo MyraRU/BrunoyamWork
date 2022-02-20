@@ -1,4 +1,4 @@
-package Lesson3.NormalL3;
+package Lesson1502.NormalL3;
 
 public class Main {
     public static void main(String[] args) {
