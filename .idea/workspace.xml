@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00877e5c-e01c-4795-bd25-0fbcf7cc4d2d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1/MyraHWOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson0802/MyraHWOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/MyraHWTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1002/MyraHWTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/EasyL3/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1502/EasyL3/Arithmetic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/EasyL3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1502/EasyL3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/HardL3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1502/HardL3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/NormalL3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1502/NormalL3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/NormalL3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1502/NormalL3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1702/Task1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson1702/Task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,7 +46,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="25NQxgreGN5xju6oilmxdvvVsIW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,14 +61,30 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Program Files\IntelliJ IDEA Community Edition 2021.2.2\NewProject\BrunoyamWork" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Hard" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3.NormalL3.Main" />
       <module name="BrunoyamWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson3.NormalL3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1702.Task1.Task1.Main" />
+      <module name="BrunoyamWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1702.Task1.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,13 +144,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.Test" />
+      <module name="BrunoyamWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.MyraHWThree" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -156,5 +187,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
