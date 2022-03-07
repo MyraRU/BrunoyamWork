@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00877e5c-e01c-4795-bd25-0fbcf7cc4d2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hard/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hard/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hard/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hard/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hard/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1702/Task1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1702/Task1/Main.java" afterDir="false" />
+    <list default="true" id="00877e5c-e01c-4795-bd25-0fbcf7cc4d2d" name="Changes" comment="add HW0103, easy and normal task">
+      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Easy/ArrSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Easy/TaskEasy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Easy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Normal/TaskNormal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Normal/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hard/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons2202/Hard/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hard/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons2202/Hard/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hard/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons2202/Hard/Printable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hard/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons2202/Hard/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hard/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons2202/Hard/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hard/Условия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson0802/MyraHWOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson0802/MyraHWOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +62,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Program Files\IntelliJ IDEA Community Edition 2021.2.2\NewProject\BrunoyamWork\src\Easy" />
       <recent name="F:\Program Files\IntelliJ IDEA Community Edition 2021.2.2\NewProject\BrunoyamWork" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3.NormalL3.Main" />
       <module name="BrunoyamWork" />
@@ -144,12 +152,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hard.Test" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson0103.Normal.Test" />
       <module name="BrunoyamWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hard.*" />
+          <option name="PATTERN" value="Lesson0103.Normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons2202.Hard.Test" />
+      <module name="BrunoyamWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons2202.Hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson0103.Easy.Test" />
+      <module name="BrunoyamWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson0103.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,10 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.MyraHWThree" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +212,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -188,5 +234,70 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add HW0103, easy and normal task" />
+    <option name="LAST_COMMIT_MESSAGE" value="add HW0103, easy and normal task" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

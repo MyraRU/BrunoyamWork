@@ -5,13 +5,13 @@ import java.util.Scanner;
 public class MyraHWOne {
     public static void main(String[] args) {
 
-//  Задание Easy. Спящий бот
+//  Задание Lesson0103.Easy. Спящий бот
 
 //        Scanner sc = new Scanner(System.in);
 //        String str = sc.nextLine();
 //        System.out.println("Бот отвечает: Я сплю");
 
-//  Задание Normal.
+//  Задание Lesson0103.Normal.
 
 //        Scanner sc = new Scanner(System.in);
 //
@@ -28,7 +28,7 @@ public class MyraHWOne {
 //        } else {
 //            System.out.println("Ой, что-то пошло не так. Перезапустите программу и попробуйте снова");
 
-//  Задание Hard. Наибольшее и наименьшее число из трех введенных в консоль.
+//  Задание Lessons2202.Hard. Наибольшее и наименьшее число из трех введенных в консоль.
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите три числа");

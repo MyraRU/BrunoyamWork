@@ -1,4 +1,4 @@
-package Hard;
+package Lessons2202.Hard;
 
 public interface Printable {
 
