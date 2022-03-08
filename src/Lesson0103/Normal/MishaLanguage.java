@@ -13,10 +13,10 @@ public class MishaLanguage {
 
             if (res == 0)
                 return true;
-
+            // для правой (положительной) половины
             if (res > 0)
                 firstIndex = midlIndex + 1;
-
+            // для левой (отрицательной) половины
             else
                 lastIndex = midlIndex - 1;
         }

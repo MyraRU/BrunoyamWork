@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00877e5c-e01c-4795-bd25-0fbcf7cc4d2d" name="Changes" comment="add HW0103, easy and normal task">
-      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Easy/ArrSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Easy/TaskEasy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Easy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Normal/TaskNormal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Normal/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Hard/CalculatorRPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson0103/Hard/TaskHard" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hard/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons2202/Hard/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hard/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons2202/Hard/Magazine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hard/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons2202/Hard/Printable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hard/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons2202/Hard/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hard/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons2202/Hard/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hard/Условия" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson0802/MyraHWOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson0802/MyraHWOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,26 +64,13 @@
       <recent name="Hard" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3.NormalL3.Main" />
+  <component name="RunManager" selected="Application.CalculatorRPN">
+    <configuration name="CalculatorRPN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson0103.Hard.CalculatorRPN" />
       <module name="BrunoyamWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson3.NormalL3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1702.Task1.Task1.Main" />
-      <module name="BrunoyamWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson1702.Task1.Task1.*" />
+          <option name="PATTERN" value="Lesson0103.Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,6 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReversePolishNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.ReversePolishNotation" />
+      <module name="BrunoyamWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson0103.Hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson0103.Normal.Test" />
       <module name="BrunoyamWork" />
@@ -193,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorRPN" />
+        <item itemvalue="Application.ReversePolishNotation" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MyraHWThree" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -238,66 +229,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add HW0103, easy and normal task" />
     <option name="LAST_COMMIT_MESSAGE" value="add HW0103, easy and normal task" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson0103/Normal/MishaLanguage.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

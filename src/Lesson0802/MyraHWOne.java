@@ -28,7 +28,7 @@ public class MyraHWOne {
 //        } else {
 //            System.out.println("Ой, что-то пошло не так. Перезапустите программу и попробуйте снова");
 
-//  Задание Lessons2202.Hard. Наибольшее и наименьшее число из трех введенных в консоль.
+//  Задание Lessons2202.Lesson0103.Hard. Наибольшее и наименьшее число из трех введенных в консоль.
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите три числа");
