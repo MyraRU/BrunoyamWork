@@ -1,0 +1,19 @@
+Normal:
+
+Cоздать класс Customer с полями имя и возраст.
+
+Создать мапу (например, customerMap).
+
+Написать статический метод, который принимает на вход аргументы:
+customerMap, int from и int to и возвращает новую мапу,
+в которую войдут все покупатели, возраст которых находится в диапазоне [from, to)
+
+HashMap<String, Customer> customerMap = new HashMap<>();
+
+customerMap.put("1", new Customer("Павел", 23));
+
+customerMap.put("2", new Customer("Олег", 17));
+
+customerMap.put("3", new Customer("Максим", 48));
+
+customerMap.put("4", new Customer("Евгения", 67));
